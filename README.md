@@ -1,4 +1,4 @@
-## This repository is "forked" from git clone https://bartok91@bitbucket.org/sonnhammergroup/hieranoid.git. 
+## This repository is "forked" from https://bitbucket.org/sonnhammergroup/hieranoid/src/master/ 
 Done with the intention of testing and updating. 
 
 
