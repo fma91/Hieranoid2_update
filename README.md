@@ -1,3 +1,7 @@
+## This repository is "forked" from git clone https://bartok91@bitbucket.org/sonnhammergroup/hieranoid.git. 
+Done with the intention of testing and updating. 
+
+
 # Hieranoid 2 - Hierarchical orthology inference algorithm
 ___
 
